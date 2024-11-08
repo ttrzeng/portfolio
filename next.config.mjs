@@ -3,7 +3,6 @@
  */
 const nextConfig = {
   basePath: '',
-  output: 'export',
   trailingSlash: true,
 }
  
