@@ -59,7 +59,7 @@ export const DATA = {
       start: "Oct 2021",
       end: "Present",
       description:
-        "Implemented the Bitcoin discreet log contract (DLC) protocol specifications as an open source Typescript SDK. Dockerized all microservices and setup production kubernetes cluster. Architected a data lake using AWS S3 and Athena for historical backtesting of bitcoin trading strategies. Built a mobile app using react native and typescript.",
+        "Enhanced the OpenFGA open-source repository by implementing additional tuple modeling validation, which reduced errors by 20%. Developed tracking features and usage metric analytics for OktaFGA’s dashboard to provide valuable insights into user behavior, improving UX for clients. Designed API rate limiters to decrease backend workload by 30%, and migrated OktaFGA to the Quantum Design System, boosting development speed by 40%. Integrated SonarQube into the FGA dashboard to enhance security and code coverage by 25%.",
     },
     {
       company: "Auth0",
